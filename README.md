@@ -1,8 +1,7 @@
 # notes-taker
 
 ## Description
-
-This node command line application will allow the user to generate an svg file that will contain a logo with specifications according to the users choosing. The user will be prompted with questions such as the type of shape, the color of the text that is contained within said shape, the specific characters of text itself, and finally the color of the shape. Once the user answers all of these questions within the prompt a logo.svg file will be generated, in which once opened up in a separate browser, will appear with a logo that matches the user inputs. 
+This server-based node program will allow the user to take, add/save, and delete various notes as the application is being utilized. Once the server is live and the URL has been given, the user can access the URL and then proceed to take as many amount of new notes as the user wishes and will be added to the leftmost side once the save button is clicked. Also, any notes can be deleted by clicking on the trash can icon found next to the made note. 
 
 ## Usage 
 SVG logo maker screenshot: ![Alt text](/notes-taker.png)
