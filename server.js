@@ -25,12 +25,7 @@ app.get('*', (req, res) =>{
 });
 // this function should create new tasks
 function createNewTasks(body, taskArray){
-    // const data = fs.readFileSync(path.join(__dirname, './db/db.json', 'utf8'))
     const newTask = body;
-    // if(!Array.isArray(taskArray));
-    // taskArray = [];
-    // if (taskArray.length === 0)
-    // taskArray.push(0);
     body.id = uuidv4();
     taskArray.push(body);
     console.log('data', body, taskArray)
