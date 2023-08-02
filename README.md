@@ -4,7 +4,9 @@
 This server-based node program will allow the user to take, add/save, and delete various notes as the application is being utilized. Once the server is live and the URL has been given, the user can access the URL and then proceed to take as many amount of new notes as the user wishes and will be added to the leftmost side once the save button is clicked. Also, any notes can be deleted by clicking on the trash can icon found next to the made note. 
 
 ## Usage 
-SVG logo maker screenshot: ![Alt text](/notes-taker.png)
+notes taker github repo: https://github.com/drog41813/notes-taker
+notes taker screenshot: ![Alt text](/notes-taker.png)
+
 
 
 
