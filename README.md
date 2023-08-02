@@ -4,11 +4,8 @@
 
 This node command line application will allow the user to generate an svg file that will contain a logo with specifications according to the users choosing. The user will be prompted with questions such as the type of shape, the color of the text that is contained within said shape, the specific characters of text itself, and finally the color of the shape. Once the user answers all of these questions within the prompt a logo.svg file will be generated, in which once opened up in a separate browser, will appear with a logo that matches the user inputs. 
 
-## Usage
-SVG logo maker walkthrough:https://drive.google.com/file/d/1HKM3DUXL8Ko1VAVUjR1JXnITlwaIUuqH/view?usp=sharing 
-SVG logo maker screenshot: ![Alt text](/logoImage/logo.png)
-
-
+## Usage 
+SVG logo maker screenshot: ![Alt text](/notes-taker.png)
 
 
 

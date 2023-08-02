@@ -1,6 +1,1 @@
-[
-    {
-        "title": "new notes",
-        "text": "blah blah blah"
-    }
-]
+[{"title":"new notes","text":"blah blah blah"},{"title":"New note #1","text":"this is where my first new note will go ","id":"ebefe87c-b30c-4efb-8a98-c4a9754d52db"},{"title":"New Note #2","text":"This is where my second new note will go","id":"b2134b88-eadb-4881-83c8-5d4e9165ae41"},{"title":"New note #3","text":"This is where my third new note will go ","id":"039a50db-6192-402d-8a49-e46ea9d27a01"},{"title":"New note #4","text":"This is where my fourth new note will go ","id":"9215a716-1cc0-4ed4-b3fb-ef35096ea34e"}]
